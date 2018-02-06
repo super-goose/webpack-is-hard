@@ -1,0 +1,12 @@
+#main-container {
+    .half {
+        height: 100px;
+        display: inline-block;
+        width: 49%;
+        text-align: center;
+
+        div {
+            margin: 10px;
+        }
+    }
+}
